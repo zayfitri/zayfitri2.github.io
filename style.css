@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color:lightcoral;
+    margin-top: 50px;
+}
+
+#List, #todoList, #doneList {
+    background-color: lightpink;
+    margin: 80px;
+    margin-block-start: 5%;
+}
